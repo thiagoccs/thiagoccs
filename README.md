@@ -8,6 +8,8 @@
 </p>
 </div>
 <hr>
-
+<p>
+  Sou um entusiasta das diversas tecnologias e estou sempre em busca de novidades na área. Trabalho com engenharia civil há 10 anos e decidi seguir minha paixão pela programação por isso estou em processo de <st>transição de carreira</st>. Acredito que essa mudança me trará novos desafios e oportunidades de crescimento profissional. Estou animado para explorar o mundo da programação e colocar em prática todo o meu conhecimento e habilidades adquiridos.
+</p>
 
 
