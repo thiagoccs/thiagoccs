@@ -46,8 +46,8 @@
    
  <p align="center">
    <img src="https://github-readme-stats.vercel.app/api?username=thiagoccs&show_icons=true&theme=dark" alt="Thiago Stats" height="165" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagoccs&layout=compact&theme=dark" alt="Thiago Stats" height="165" />
  </p>
-
  
 
 
