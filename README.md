@@ -24,6 +24,7 @@
   <p>
      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin-bottom: 4px;" height="30px">
      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="margin-bottom: 4px;" height="30px">
+    <img src="https://img.shields.io/badge/PHP-rgb(113,117,170)?style=for-the-badge&logo=php&logoColor=white" style="margin-bottom: 4px;" height="30px">
     <img src="https://img.shields.io/badge/Python-rgb(60,118,162)?style=for-the-badge&logo=python&logoColor=yellow" style="margin-bottom: 4px;" height="30px">
      <img src="https://img.shields.io/badge/MongoDB-4faa41?style=for-the-badge&logo=mongodb&logoColor=white" style="margin-bottom: 4px;" height="30px">
      <img src="https://img.shields.io/badge/mongoose-810000?style=for-the-badge&logo=mongoose&logoColor=white" style="margin-bottom: 4px;" height="30px">
